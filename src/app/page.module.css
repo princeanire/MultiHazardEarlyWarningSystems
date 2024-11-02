@@ -1,0 +1,22 @@
+/* App.css */
+.wrapper {
+    display: grid;
+    place-items: center;
+    height: 50vh
+}
+
+.centered {
+    text-align: center;
+}
+
+.switchLabel {
+    display: block;
+    margin-top: 10px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 15vh;
+}
